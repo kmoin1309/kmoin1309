@@ -13,6 +13,7 @@
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kmoin1309&label=Profile%20Views&color=1&icon=5&pretty=false" />
+  ![](https://komarev.com/ghpvc/?username=kmoin1309)
 </a>
 
 <h3 align="left">Connect with me:</h3>
