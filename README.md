@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **moinoddinkazi13@gmail.com**
 
+- ---
+[![](https://visitcount.itsvg.in/api?id=kmoin1309&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-moinuddin-quazi-7a5942244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-moinuddin-quazi-7a5942244/" height="30" width="40" /></a>
@@ -23,10 +26,12 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kmoin1309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kmoin1309&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmoin1309&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=kmoin1309&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kmoin1309&theme=react&hide_border=true)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmoin1309&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kmoin1309&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
