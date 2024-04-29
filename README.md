@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **moinoddinkazi13@gmail.com**
 
-<br/>
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <h3 align="left">Connect with me:</h3>
