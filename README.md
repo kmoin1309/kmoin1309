@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moinuddin Quazi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">I'm a passionate backend developer (MERN) with a knack for building scalable and efficient applications. I love diving deep into code, solving complex problems, and constantly learning new technologies. My journey in the world of software development has been driven by my curiosity and enthusiasm for creating innovative solutions.</h3>
 
-- 🔭 I’m currently working on **Development Skills and Ai/ML**
+- 🔭I’m currently working on honing my skills in Backend development.
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m always learning and exploring new technologies to stay updated in the fast-paced tech industry.
 
 - 💬 Ask me about **MERN Stack**
   
