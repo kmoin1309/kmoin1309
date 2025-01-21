@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **moinoddinkazi13@gmail.com**
 
-[![](https://visitcount.itsvg.in/api?id=kmoin1309&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=kmoin1309-username&base=1000)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
